@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/kitkat2511586133/openwrt-k2t
+  REPO_URL: https://github.com/bo1locks/openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: K2TnoSSR.config
