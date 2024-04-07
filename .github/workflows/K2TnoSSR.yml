@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/bo1locks/openwrt
+  REPO_URL: https://github.com/P3TERX/Actions-OpenWrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: K2TnoSSR.config
