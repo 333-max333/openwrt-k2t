@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt K2TnoSSR
+name: Build OpenWrt K2TnoSSR LEDE
 
 on:
   repository_dispatch:
