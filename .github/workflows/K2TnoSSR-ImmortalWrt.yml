@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt K2TnoSSR ImmortalWrt 21.02
+name: Build OpenWrt K2TnoSSR ImmortalWrt v23.05.4
 
 on:
   repository_dispatch:
