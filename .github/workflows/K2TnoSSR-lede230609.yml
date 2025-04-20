@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt K2TnoSSR LEDE 230609
+name: Build OpenWrt K2TnoSSR LEDE 221001
 
 on:
   repository_dispatch:
@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede.git
-  REPO_BRANCH: 230609
+  REPO_BRANCH: 221001
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: K2TnoSSR.config
   DIY_P1_SH: diy-part1.sh
